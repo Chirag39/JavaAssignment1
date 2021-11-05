@@ -1,5 +1,3 @@
-package CapgeminiAssignment1;
-
 import java.util.Scanner;
 
 public class Armstrong {
